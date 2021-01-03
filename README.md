@@ -14,4 +14,4 @@ The second part, which ate up tooooo much time, was to test the remainder of the
 # Part One - Loan Calculator
 Assignment involved creating Jasmine tests to test the calculateMonthlyPayment function. 
 
-Please go to github repository [Tip Pool Jasmine Tests](https://github.com/JimGeist/sb_07-01-12-1_JasmineExercises-LoanCalc/) for the ReadMe with the details for the Loan Calculator test portion of this assignment.
+Please go to github repository [Loan Calculator Jasmine Tests](https://github.com/JimGeist/sb_07-01-12-1_JasmineExercises-LoanCalc/) for the ReadMe with the details for the Loan Calculator test portion of this assignment.
